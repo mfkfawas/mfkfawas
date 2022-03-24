@@ -1,9 +1,9 @@
 ## :sassy_man:  About me
-- :school: <h1>Morning!</h1> I don’t think we’ve met before, I’m a `full-stack developer`.
+- :school: Morning! I don’t think we’ve met before, I’m a `full-stack developer` who living in the 3rd floor of `JavaScript` .
 - :technologist: `Bitcoin` is my inspiration.
 - :computer: I can't sleep without `Coding`
 - :student: I’m currently planning to learn about: `Devops` and `Web3`.
-- :nerd_face: I am living in `JavaScript`
+<!-- - :nerd_face: I am living in `JavaScript` -->
 
 <br>
 

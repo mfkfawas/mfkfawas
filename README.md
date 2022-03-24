@@ -1,5 +1,5 @@
 ## :sassy_man:  About me
-- :school: I am a `Full-Stack Developer`.
+- :school: <h1>Morning!</h1> I don’t think we’ve met before, I’m a `full-stack developer`.
 - :technologist: `Bitcoin` is my inspiration.
 - :computer: I can't sleep without `Coding`
 - :student: I’m currently planning to learn about: `Devops` and `Web3`.

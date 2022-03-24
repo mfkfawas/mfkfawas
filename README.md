@@ -1,9 +1,9 @@
 ## :sassy_man:  About me
 - :school: I am a Full-Stack Dev.
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`
+- :technologist: `Bitcoin` is my inspiration.
+- :computer: I can't sleep without `Coding`
+- :student: I’m currently planning to learn about: `Devops` and `Web3`.
+<!-- - :nerd_face: Always `learning new things` -->
 
 <br>
 

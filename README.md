@@ -1,9 +1,9 @@
 ## :sassy_man:  About me
-- :school: I am a Full-Stack Dev.
+- :school: I am a `Full-Stack Developer`.
 - :technologist: `Bitcoin` is my inspiration.
 - :computer: I can't sleep without `Coding`
 - :student: I’m currently planning to learn about: `Devops` and `Web3`.
-<!-- - :nerd_face: Always `learning new things` -->
+- :nerd_face: I am living in `JavaScript`
 
 <br>
 

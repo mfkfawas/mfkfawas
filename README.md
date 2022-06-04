@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm mfkfawas</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
+
 ## :sassy_man:  About me
 - :school: Morning! I don’t think we’ve met before, I’m a `full-stack developer` who living in the 3rd floor of `JavaScript` .
 - :technologist: 💻 I'm currently working on MERN Stack
@@ -7,8 +10,6 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm mfkfawas</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfkfawas&label=Profile%20views&color=0e75b6&style=flat" alt="mfkfawas" /> </p>
 

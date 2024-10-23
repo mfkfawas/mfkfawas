@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mfkfawas</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <!-- ## :sassy_man:  About me -->
 <!-- - :school: Morning! I don’t think we’ve met before, I’m a `full-stack developer` who living in the 3rd floor of `JavaScript` . -->
@@ -10,7 +10,7 @@
 - :student: Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 <!-- - :nerd_face: I am living in `JavaScript` -->
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React.js, Node.js, MongoDB,...**
 
